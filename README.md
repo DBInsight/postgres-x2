@@ -166,4 +166,4 @@ There are a lot of talks materials [here](https://github.com/postgres-x2/postgre
 
 * Internal Overview
 
- The offical document has an internal of Postgres-X2 [section] (http://postgres-x2.github.io/reference/1.2/html/xc-overview.html)
+ The offical document has an internal of Postgres-X2 [section] (http://postgres-x2.github.io/reference/1.2/html/xc-overview.html).
