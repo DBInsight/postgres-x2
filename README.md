@@ -4,7 +4,7 @@ synchronous multi-master, and transparent PostgreSQL interface. It is a collecti
 coupled database components which can be installed in more than one hardware or virtual
 machines.
 
-* **About the name**
+* **About the name***
 
 This project used the name *Postgres-XC* originally, it is renamed to **Postges-X2** from 2015 after it was moved to Github. 
 
